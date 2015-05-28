@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "Nihey Luz Takizawa",
+    "label": "Programmer",
+    "email": "nihey.takizawa@gmail.com",
+    "phone": "+55 (11) 942-588-190",
+    "location": {
+      "address": "330 Miguel Alves Margarido St, apt 412",
+      "postalCode": "13566-580",
+      "city": "São Carlos",
+      "countryCode": "BR",
+      "region": "São Paulo - Brazil"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "nihey",
+        "url": "https://github.com/nihey"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "nihey-luz-takizawa",
+        "url": "https://br.linkedin.com/pub/nihey-luz-takizawa/3b/669/3a7"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Stoq Link",
+      "position": "Full Stack Developer",
+      "website": "http://stoq.com.br",
+      "startDate": "2014-03-03",
+      "endDate": "2015-06-30",
+      "summary": "Stoq Link is a Business Intelligence system, built on top of Stoq's ERP infrastructure",
+      "highlights": [
+        "Built the project main infrastructure with ReactJS",
+        "Improved some reports with data warehousing",
+        "Reduced Backend over-fetching using HTSQL"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Sprite",
+      "position": "Full Stack Developer",
+      "website": "http://nihey.github.io/sprites/",
+      "startDate": "2015-04-02",
+      "endDate": "2015-04-10",
+      "summary": "Personal project, a very lightweight javascript library to handle sprites on javascript"
+    }, {
+      "organization": "Sketchpad",
+      "position": "Full Stack Developer",
+      "website": "http://yiom.github.io/sketchpad/",
+      "startDate": "2015-03-09",
+      "endDate": "2015-09-07",
+      "summary": "Javascript sketching library, built to help on a private independent project",
+      "highlighs": [
+          "Created a ember-cli addon from this library"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of São Paulo",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2011-02-20",
+      "endDate": "2015-07-07",
+      "gpa": "7.5",
+      "courses": [
+          "07600001 - Innovation & Entrepreneurship",
+          "SCC00266 - Web Development Design Patterns"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development (Frontend)",
+      "keywords": [
+        "HTML5",
+        "Javascript (ES5 & ES6)",
+        "ReactJS",
+        "EmberJS"
+      ]
+    },
+    {
+      "name": "Web Development (Backend)",
+      "keywords": [
+        "Python",
+        "Flask",
+        "REST",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced (writting), Intermediate (Listening/Speaking)"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [{
+      "name": "OpenSource",
+      "keywords": ["Python", "Javascript", "Git"]
+  }]
+}
